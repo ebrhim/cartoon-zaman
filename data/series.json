@@ -1,1 +1,39 @@
-
+{
+  "series": [
+    {
+      "slug": "heidi",
+      "title": "هايدي",
+      "aliases": ["هايدي - Heidi"],
+      "description": "سلسلة كلاسيكية عن الطفلة هايدي وحياتها في جبال الألب.",
+      "poster_wikipedia_page": "https://commons.wikimedia.org/wiki/File:Heidi_Anime.png",
+      "poster_file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heidi_Anime.png",
+      "poster_license": "راجع صفحة الملف على Wikimedia Commons: قد يَظهر النص في صفحة الملف كـ 'This image is used on the basis of fair use.' أو برخصة CC. افتح الصفحة للتأكد ونسخ نص الترخيص واسم المؤلف حرفيًا.",
+      "episodes": [
+        { "title": "الحلقة 1 - المقدمة", "embed_url": "" },
+        { "title": "الحلقة 2 - مغامرة في الألب", "embed_url": "" }
+      ]
+    },
+    {
+      "slug": "adnan-wa-lina",
+      "title": "عدنان ولينا (Future Boy Conan)",
+      "aliases": ["عدنان ولينا", "Adnan wa Lina", "Future Boy Conan"],
+      "description": "مسلسل مغامرات خيال علمي شهير عُرّب في العالم العربي باسم عدنان ولينا.",
+      "poster_wikipedia_page": "https://commons.wikimedia.org/wiki/File:%D8%B9%D8%AF%D9%86%D8%A7%D9%86.png",
+      "poster_file_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%D8%B9%D8%AF%D9%86%D8%A7%D9%86.png",
+      "poster_license": "الملف يشير إلى متطلبات نسبة (Attribution)؛ افتح صفحة الملف لنسخ نص الترخيص واسم المؤلف حرفيًا.",
+      "episodes": [
+        { "title": "الحلقة 1 - بداية الرحلة", "embed_url": "" }
+      ]
+    },
+    {
+      "slug": "lina",
+      "title": "لينا",
+      "aliases": ["لينا"],
+      "description": "لم يتم إيجاد بوستر واضح على Wikimedia Commons باسم 'لينا' حسب البحث السريع. يرجى تزويدي بالمزيد من المعلومات (الاسم الإنجليزي/الأصل أو سنة الإنتاج) لأبحث أدق.",
+      "poster_wikipedia_page": "",
+      "poster_file_url": "",
+      "poster_license": "",
+      "episodes": []
+    }
+  ]
+}
